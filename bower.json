@@ -1,0 +1,6 @@
+{
+  "name": "ember-auth",
+  "dependencies": {
+    "sockjs-client": "^1.5.2"
+  }
+}
